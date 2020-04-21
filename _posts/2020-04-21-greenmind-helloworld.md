@@ -1,15 +1,15 @@
 ---
-date: 2018-09-15
-title: Instalando Extension Pack no Virtualbox
+date: 2018-04-21
+title: Iniciando o projeto
 # Caso seja criado um video , inserir o id do video
 #video_id: _iH8f5alzWA
 
 # Descrição
-description: Instalando Extension Pack no Virtualbox
+description: Iniciando o blog
 
 # Categoria
 categories:
-  - virtualização
+  - blog
 
 #Arquivos a ser compartilhado
 #resources:
@@ -28,4 +28,4 @@ type: Document
 #Inicia POST
 ---
 
-AGUARDE....
+# 2020 ...
