@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: GreenMind Labs 
-url: "https://abase.greenmindlabs.com"
+title: GreenMind Labs
+url: "https://greenmind-sec;github.io"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -16,7 +16,7 @@ description: Conhecimento foi feito para ser partilhado e não guardado.
 #  email: greenmind.sec@gmail.com
 #  twitter: @greenmind-br
 #social:
-#  name: GreenMindLabs 
+#  name: GreenMindLabs
 #  links:
 #    - https://github.com/CloudCannon/base-jekyll-template
 
